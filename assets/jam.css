@@ -1,0 +1,47 @@
+#keyboard {
+  padding: 2em;
+  margin: 1em;
+  background-color: #E4E4E1;
+  border: 1px solid gray;
+  width: 880px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#keyboard button {
+  font-size: 1.3em;
+  width: 3.5em;
+  margin: 0.5em;
+  padding: 1em;
+}
+
+#jam-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h2 {
+  text-align: center;
+  line-height: 3em;
+}
+
+#jam-buttons button{
+  font-size: 2em;
+}
+
+.spacer {
+  margin-right: 30px;
+}
+
+#container {
+  background-color: lightgray;
+  padding: 10px;
+  border: 1px solid gray;
+  width: 950px;
+  margin-left: auto;
+  margin-right: auto
+}
